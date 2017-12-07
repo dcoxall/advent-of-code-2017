@@ -1,0 +1,7 @@
+[package]
+name = "recursivecircus"
+version = "0.1.0"
+authors = ["Darren Coxall <darren@darrencoxall.com>"]
+
+[dependencies]
+regex = "0.2"
